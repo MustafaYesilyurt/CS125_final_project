@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "483379560841",
+    "firebase_url": "https://cs125fitlyfe.firebaseio.com",
+    "project_id": "cs125fitlyfe",
+    "storage_bucket": "cs125fitlyfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483379560841:android:8cb6d30c09c29e26a22158",
+        "android_client_info": {
+          "package_name": "com.final125.fitlyfe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483379560841-mm657gblm2ukacpemlm3r41n2ild9lrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxvo-DOPE3rfAZ8CUgQP0ukm69OjihSNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483379560841-mm657gblm2ukacpemlm3r41n2ild9lrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
